@@ -1,5 +1,8 @@
 # Outbox + Idempotent Consumer — Proof of Concept
 
+Companion proof-of-concept for [outbox.md](https://github.com/konstantin-kuzovkin/architecture-portfolio/blob/main/02-event-driven-architecture/outbox.md)
+and [ADR-005](https://github.com/konstantin-kuzovkin/architecture-portfolio/blob/main/adr/ADR-005-transactional-outbox.md).
+
 A small, runnable implementation of the pattern described in the portfolio:
 `02-event-driven-architecture/outbox.md`, `ADR-005`, and the idempotency
 rules in `01-payment-transfer-architecture/idempotency.md`.
